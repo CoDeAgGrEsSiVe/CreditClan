@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CreditClan/static/css/main.e6126748.chunk.css",
+    "main.js": "/CreditClan/static/js/main.11bc0b2b.chunk.js",
+    "main.js.map": "/CreditClan/static/js/main.11bc0b2b.chunk.js.map",
+    "runtime-main.js": "/CreditClan/static/js/runtime-main.9f0a5969.js",
+    "runtime-main.js.map": "/CreditClan/static/js/runtime-main.9f0a5969.js.map",
+    "static/js/2.71303d32.chunk.js": "/CreditClan/static/js/2.71303d32.chunk.js",
+    "static/js/2.71303d32.chunk.js.map": "/CreditClan/static/js/2.71303d32.chunk.js.map",
+    "index.html": "/CreditClan/index.html",
+    "static/css/main.e6126748.chunk.css.map": "/CreditClan/static/css/main.e6126748.chunk.css.map",
+    "static/js/2.71303d32.chunk.js.LICENSE.txt": "/CreditClan/static/js/2.71303d32.chunk.js.LICENSE.txt",
+    "static/media/addTodo.96d37d49.svg": "/CreditClan/static/media/addTodo.96d37d49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f0a5969.js",
+    "static/js/2.71303d32.chunk.js",
+    "static/css/main.e6126748.chunk.css",
+    "static/js/main.11bc0b2b.chunk.js"
+  ]
+}
